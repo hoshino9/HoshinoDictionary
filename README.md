@@ -6,6 +6,7 @@
 
 * [语法](Grammar.md)
 * [命名](Naming.md)
+* [词语](/World.md)
 
 ## 前置知识
 
